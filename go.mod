@@ -1,4 +1,4 @@
-module github.com/hidu/proxy-manager
+module github.com/caotranquochoai/proxy-manager
 
 go 1.21
 
