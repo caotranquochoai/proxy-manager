@@ -13,7 +13,7 @@ v0.3.0
 ### 使用源码安装
 需要安装[Go](https://golang.org/dl/  "下载安装")
 ```
-go install github.com/hidu/proxy-manager@master
+go install github.com/caotranquochoai/proxy-manager@master
 ```
 
 ## 配置
