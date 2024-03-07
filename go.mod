@@ -26,4 +26,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-# replace h12.io/socks => github.com/h12w/socks v1.0.3
+
